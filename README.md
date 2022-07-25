@@ -1,4 +1,4 @@
-## Teste Prático Back-end Pleno O POVO
+## Teste Prático Back-end Pleno
 
 
 ### Introdução
