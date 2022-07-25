@@ -56,7 +56,7 @@ Para que os Jornalistas possam realizar suas operações básicas eles devem est
 	- **POST /api/type/delete/{type_id}** (Exclui um tipo de notícia do jornalista, uma exceção deverá ser lançada caso se tente deletar uma notícia que esteja sendo referenciada em Notícias)
 	- **GET /api/type/me** (Lista todos os tipos notícias do jornalista)
 
-#### Eventos Obrigatórios:
+#### Eventos Assíncronos Obrigatórios:
 - **Criação de jornalista** emitir um evento que dispara um e-mail contendo o novo jornalista
 - **Criação de notícia** emitir um evento que dispara um e-mail contendo a notícia
 
